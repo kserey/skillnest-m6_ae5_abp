@@ -1,0 +1,22 @@
+[
+  {
+    "id": "1730408400001",
+    "title": "Configurar el ambiente de desarrollo (Node.js/Express)",
+    "completed": true
+  },
+  {
+    "id": "1730408400002",
+    "title": "Implementar la lógica CRUD en server.js",
+    "completed": false
+  },
+  {
+    "id": "1730408400003",
+    "title": "Revisar la modularización en fileUtils.js",
+    "completed": false
+  },
+  {
+    "id": "1730408400004",
+    "title": "Probar la ruta POST /tasks con Postman",
+    "completed": false
+  }
+]
