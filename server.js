@@ -7,10 +7,7 @@ app.use(express.json());
 
 // ==== URL BASE ==== 
 
-// server.js (Ruta GET /)
-
 app.get('/', (req, res) => {
-    // Usamos comillas invertidas (backticks ``) para escribir HTML multi-línea
     res.send(`
         <!DOCTYPE html>
         <html lang="es">
